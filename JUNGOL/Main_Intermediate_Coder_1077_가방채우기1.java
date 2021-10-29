@@ -2,7 +2,7 @@ package JUNGOL;
 
 import java.util.Scanner;
 
-public class Main_Intermediate_Coder_1077_가방채우기1_최윤희 {
+public class Main_Intermediate_Coder_1077_가방채우기1 {
 
 	public static void main(String[] args) {
 

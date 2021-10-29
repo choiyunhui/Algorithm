@@ -3,7 +3,7 @@ package JUNGOL;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main_문제은행_1810_최윤희 {
+public class Main_문제은행_1810 {
 	//9C7
 	static int[]nums = new int[9];
 	static int[]findseven = new int[7];
