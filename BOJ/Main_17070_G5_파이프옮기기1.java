@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class Main_G5_17070_파이프옮기기1_최윤희 {
+public class Main_G5_17070_파이프옮기기1 {
 
 	static int N, cnt;
 	static int[][] map;

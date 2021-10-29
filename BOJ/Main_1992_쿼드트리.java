@@ -12,7 +12,7 @@ import java.io.InputStreamReader;
  *압축을 해야하는지 파악하는 boolean함수 
  **/
 
-public class Main_1992_쿼드트리_최윤희 {
+public class Main_1992_쿼드트리 {
 	static int matrix[][];
 	static int num;
 	public static void main(String[] args) throws Exception {

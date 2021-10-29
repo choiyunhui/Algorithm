@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class Main_9205_S1_맥주마시면서걸어가기_최윤희 {
+public class Main_9205_S1_맥주마시면서걸어가기 {
 // 편의점을 가면 1000미터를 더 갈 수 있게된다.
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

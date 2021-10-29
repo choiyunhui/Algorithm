@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class Main_G5_치킨배달_15686_최윤희 {
+public class Main_G5_치킨배달_15686 {
 	static Point[] visited;
 	static int N, M;
 	static int result = Integer.MAX_VALUE;

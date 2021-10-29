@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Main_2164_카드2_S4 {
+public class Main_2164_S4_카드2 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

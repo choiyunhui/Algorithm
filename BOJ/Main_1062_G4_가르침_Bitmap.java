@@ -5,7 +5,7 @@ import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main_G4_1062_가르침_최윤희_Bitmap {
+public class Main_G4_1062_가르침_Bitmap {
 	static boolean[] visited = new boolean[26];
 	static int n,k;
 	static int max = 0;

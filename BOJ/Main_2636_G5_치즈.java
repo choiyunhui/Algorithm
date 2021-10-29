@@ -3,7 +3,7 @@ package BOJ;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main_G5_2636_치즈_최윤희 {
+public class Main_G5_2636_치즈{
 
 	static int r,c, cheeseCnt;
 	static int map[][];
