@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Solution_D4_7208_최윤희 {
+public class Solution_D4_7208_지도칠하기 {
 	
 	static int N; //국가 수
 	static int map[][]; //인접 국가 위치

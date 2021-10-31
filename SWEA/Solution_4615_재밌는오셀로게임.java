@@ -2,7 +2,7 @@ package swea;
 
 import java.util.Scanner;
 
-public class Solution_4615 {
+public class Solution_4615_재밌는오셀로게임 {
 					//상하좌우 좌상 우하 우상 좌하
 	static int[]dr = {-1,1,0,0,-1,1,-1,1};
 	static int[]dc = {0,0,-1,1,-1,1,1,-1};

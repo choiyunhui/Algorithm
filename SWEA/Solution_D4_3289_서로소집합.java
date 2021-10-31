@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Solution_D4_3289_서로소집합_최윤희 {
+public class Solution_D4_3289_서로소집합{
 	static int [] parent;
 	private static void makeSet(int v) {
 		parent[v] = v;

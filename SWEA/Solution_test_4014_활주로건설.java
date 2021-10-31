@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Solution_test_4014_활주로건설_최윤희 {		//활주로 건설
+public class Solution_test_4014_활주로건설 {		//활주로 건설
 	static int N,X,count,map[][],map_dif[][];
 	static boolean visited[][];
 	public static void main(String[] args) {

@@ -2,7 +2,7 @@ package swea;
 
 import java.util.Scanner;
 
-public class Solution_D3_3307_최윤희 {
+public class Solution_D3_3307_최장증가부분수열 {
 	//최장증가부분수열
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

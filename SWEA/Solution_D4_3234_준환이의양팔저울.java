@@ -2,7 +2,7 @@ package swea;
 
 import java.util.Scanner;
 //준환이의 양팔저울
-public class Solution_D4_3234_최윤희 {
+public class Solution_D4_3234_준환이의양팔저울 {
 	/**
 	 * 순열과 부분집합을 동시에 수행하면 시간이 오래 걸리게 된다.
 	 * static 변수를 사용하면 시간초과가 나기에 파라미터로 빼준다.
