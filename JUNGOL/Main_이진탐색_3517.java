@@ -2,7 +2,7 @@ package JUNGOL;
 
 import java.util.Scanner;
 
-public class Main_이진탐색_3517_최윤희 {
+public class Main_이진탐색_3517{
 	static int[] map;
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
