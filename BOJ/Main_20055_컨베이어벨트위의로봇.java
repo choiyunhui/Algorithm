@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class Main_2005_컨베이어벨트위의로봇 {
+public class Main_20055_컨베이어벨트위의로봇 {
 	static int N,K,A[],cnt=0;
 	static boolean robot[];
 	public static void main(String[] args) {
